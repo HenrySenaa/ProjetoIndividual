@@ -1,0 +1,34 @@
+.principal {
+    /* Pagina Principal */
+
+position: absolute;
+width: 1440px;
+height: 508px;
+left: 0px;
+top: 58px;
+
+background: rgba(0, 0, 0, 0.56);
+
+
+/* Pagina Principal */
+
+position: absolute;
+width: 1440px;
+height: 508px;
+left: 0px;
+top: 58px;
+
+background: rgba(0, 0, 0, 0.56);
+
+
+/* Header */
+
+position: absolute;
+width: 1440px;
+height: 58px;
+left: 0px;
+top: 0px;
+
+background: #F700C0;
+
+}
