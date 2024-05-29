@@ -1,34 +1,33 @@
-.principal {
-    /* Pagina Principal */
+body {
+    background-color: gray;
 
-position: absolute;
-width: 1440px;
-height: 508px;
-left: 0px;
-top: 58px;
+}
 
-background: rgba(0, 0, 0, 0.56);
-
-
-/* Pagina Principal */
-
-position: absolute;
-width: 1440px;
-height: 508px;
-left: 0px;
-top: 58px;
-
-background: rgba(0, 0, 0, 0.56);
-
-
-/* Header */
-
-position: absolute;
-width: 1440px;
-height: 58px;
+.header {
+display: flex;
+margin: auto;
+width:100%;
+height: 50px;
 left: 0px;
 top: 0px;
-
 background: #F700C0;
+}
 
+.principal {
+position: absolute;
+width: 1440px;
+height: 508px;
+left: 0px;
+top: 0px;
+background: rgba(40, 40, 40, 0.57);
+}
+
+.wallpaperprincipal {
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: -177px;
+top: -217px;
+
+background: url(imagens/wallpaper-deemo.jpg)
 }
