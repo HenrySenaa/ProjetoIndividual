@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Barlow', 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: black;
+  background-color: rgb(233, 0, 221);
 }
 
 :root {
@@ -23,7 +23,7 @@ body {
 
 .header {
   height: var(--tamanho-header);
-  border-bottom: 2px solid #32b9cd;
+  border-bottom: 2px solid #00d9ff;
 }
 
 .header .container {
@@ -34,7 +34,7 @@ body {
 
 .header a {
   text-decoration: none;
-  color: #e3b062;
+  color: #000000;
 }
 
 .agora {
@@ -47,7 +47,7 @@ body {
   align-items: center;
   justify-content: space-between;
   list-style: none;
-  color: #e3b062;
+  color: #000000;
 }
 
 .titulo {
@@ -65,7 +65,7 @@ body {
 .banner {
   height: var(--tamanho-banner);
   color: white;
-  background-image: url('../assets/imgs/bg-jelly-fish-para-home.png');
+  background-image: url('/imagens/wallpaper - deemo.jpg');
   background-size: cover;
 }
 
