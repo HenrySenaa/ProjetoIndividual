@@ -111,8 +111,10 @@ body {
   padding: 30px 0;
 }
 
-.onu p {
-  text-align: center;
+.onu .onuex {
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 20px;
 }
 
 .box {
@@ -131,7 +133,31 @@ body {
   background-size: cover;
 }
 /* FOOTER */
+.aboutgames {
+  background-image: url("../assets/wallpaper pagina/wp11157592.jpg");
+  background-size: cover;
+}
+
+.aboutgames .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* Alinha itens no início do contêiner */
+  padding: 20px;
+}
+
+.aboutgames h4 {
+  margin: 0;
+  align-self: flex-start; /* Alinha o título ao início do contêiner */
+}
+
+.aboutgames p {
+  margin: 0;
+  max-width: 70%; /* Define uma largura máxima para o parágrafo */
+  text-align: justify;
+}
+
 /* FOOTER */
+
 /* FOOTER */
 
 .footer {
